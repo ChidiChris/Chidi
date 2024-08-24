@@ -11,7 +11,7 @@
 
   Chidi's restaurant is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://chidichris.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://chidi.vercel.app"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -34,13 +34,13 @@ To run **Chidi** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
+sudo git clone https://github.com/chidichris/chidi.vercel.app
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git
+git clone https://github.com/chidichris/chidi.vercel.app
 ```
 
 ### Contact
