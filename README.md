@@ -34,13 +34,13 @@ To run **Chidi** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/chidichris/chidi.vercel.app
+sudo git clone https://github.com/chidichris/chidi.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/chidichris/chidi.vercel.app
+git clone https://github.com/chidichris/chidi.git
 ```
 
 ### Contact
