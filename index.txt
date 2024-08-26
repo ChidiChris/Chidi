@@ -1,13 +1,13 @@
-Grilli - Amazing & Delicious Food
+Chidi - Amazing & Delicious Food
 
-This is a Restaurant html template made by codewithsadee
+This is a Restaurant html template made by Chidi Christopher
 
 
 
 #---------- TOP BAR ----------#
 
 <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
-Restaurant St, Delicious City, London 9578, UK
+Restaurant St, Imaginary City, Abuja 9578, UK
 
 <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
 Daily : 8.00 am to 10.00 pm
@@ -22,7 +22,7 @@ booking@restaurant.com
 
 #---------- HEADER ----------#
 
-alt = Grilli - Home
+alt = Chidi - Home
 
 aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
@@ -33,21 +33,7 @@ About Us
 Our Chefs
 Contact
 
-Visit Us
 
-Restaurant St, Delicious City,
-London 9578, UK
-
-Open: 9.30 am - 2.30pm
-
-booking@grilli.com
-
-Booking Request
-+88-123-123456
-
-Find A Table
-
-aria-label = open menu
 
 
 
@@ -88,10 +74,6 @@ Book A Table
 
 Flavors For Royalty
 
-We Offer Top Notch
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry lorem Ipsum has been the industrys standard dummy text ever.
-
 alt = Breakfast
 
 Breakfast
@@ -111,11 +93,9 @@ Our Story
 
 Every Fla vor Tells a Story
 
-Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries, but also the leap into.
 
 Book Through Call
 
-+80 (400) 123 4567
 
 Read More
 
@@ -133,7 +113,6 @@ Special Dish
 
 Lobster Tortellini
 
-Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type.
 
 $40.00
 $20.00
@@ -168,7 +147,6 @@ alt = Butternut Pumpkin
 Butternut Pumpkin
 
 $10.00
-Typesetting industry lorem Lorem Ipsum is simply dummy text of the priand.
 
 4.
 alt = Tokusen Wagyu
@@ -212,9 +190,6 @@ Sam Jhonson
 
 Online Reservation
 
-Booking request
-+88-123-123456
-or fill out the order form
 
 placeholder = Your Name
 placeholder = Phone Number
@@ -245,22 +220,7 @@ Contact Us
 
 Booking Request
 
-+88-123-123456
-
-Location
-
-Restaurant St, Delicious City,
-London 9578, UK
-
-Lunch Time
-
-Monday to Sunday
-11.00 am - 2.30pm
-
-Dinner Time
-
-Monday to Sunday
-05.00 pm - 10.00pm
++
 
 
 
@@ -273,7 +233,6 @@ Our Strength
 alt = icon
 
 Hygienic Food
-Lorem Ipsum is simply dummy printing and typesetting.
 
 Fresh Environment
 
@@ -289,33 +248,14 @@ Recent Updates
 
 Upcoming Event
 
-alt = Flavour so good you’ll try to eat with your eyes.
-
-15/09/2022
-Food, Flavour
-Flavour so good you’ll try to eat with your eyes.
-
-08/09/2022
-Healthy Food
-
-03/09/2022
-Recipie
-
 View Our Blog
 
 
 
 #---------- FOOTER ----------#
 
-alt = grilli home
+alt = Chidi home
 
-Restaurant St, Delicious City, London 9578, UK
-
-booking@grilli.com
-
-Booking Request : +88-123-123456
-
-Open : 09:00 am - 01:00 pm
 
 Get News & Offers
 
@@ -339,11 +279,6 @@ Twitter
 Youtube
 Google Map
 
-&copy; 2022 Grilli. All Rights Reserved | Crafted by
-
-https://github.com/codewithsadee
-
-codewithsadee
 
 
 
@@ -410,7 +345,6 @@ alt = feature banner
 Chef Selection
 Lobster Tortellini
 
-Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since.
 
 $40.00
 $20.00
@@ -424,23 +358,6 @@ About Us
 
 Who We Are
 
-A modern restaurant with a menu that will make your mouth water. Servicing delicious food 
-since 45 years.
-Enjoy our seasonal menu and experience the beauty of naturalness
-Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived.
-
 Andrew Joe - Founder
 
-Lunch Time
-Monday to Sunday
-11.00 am - 2.30pm
 
-Dinner Time
-Monday to Sunday
-5.30 pm - 11.30 pm
-
-Contact Us
-Restaurant St, Delicious City, London 9578, UK
-
-+88-123-123456
-reservation@restro.com
